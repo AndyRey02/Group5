@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'meditations.apps.MeditationsConfig',
+    'Mindful_Island',
 ]
 
 
